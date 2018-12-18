@@ -1,0 +1,69 @@
+/* Patient List */
+.ListItem{
+    background-color: #FCFFFD;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ListItem:hover{
+    background-color: #9acdd5;
+}
+
+.ListItem:focus{
+    background:#2292a4;
+}
+
+.patientList{
+    position: fixed;
+    top: 10%;
+    min-width: 15%;
+    max-width: 15%;
+    bottom: 5%;
+    overflow: scroll;
+    
+}
+
+.patientList.list-group{
+    display: -webkit-box;
+}
+
+/* Search */
+
+input{
+    min-width: 15%;
+    max-width: 15%;
+    position: fixed;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Patient Details */
+
+.space{
+    padding-bottom: 2em; 
+}
+
+.patientImage{
+    border-radius: 50%;
+    min-width: 10em;
+    max-width: 10em;
+    margin-bottom: 3em;
+}
+
+.patientDetails{
+    top: 10%;
+}
+
+.patientDetailsLeft{
+    height: 30em;
+    padding-top: 2em;
+}
+
+.patientDetails h2, h3{
+    text-align: left;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.patientDetails p{
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    margin: 0.5px;
+}

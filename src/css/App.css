@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.siteHeader{
+  padding-top: 1%;
+  font-family: 'Fjalla One', sans-serif;
+  text-decoration-line: underline;
+}
+
+.siteHeader h1{
+  font-size: 4em;
+}
+
+.sidebar{
+  background-color: #000000;
+  height: -webkit-fill-available;
+}
+
+.details{
+  margin-left: auto;
+  margin-right: auto;
+}
+
