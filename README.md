@@ -1,5 +1,7 @@
 ### Demo app created for SwiftMedical, using their API https://github.com/swiftmedical/wounds-demo-api
 
+## Must be running the above API on port 3000 for the App to fully function
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
