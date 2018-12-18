@@ -1,4 +1,4 @@
-###Demo app created for SwiftMedical, using their API https://github.com/swiftmedical/wounds-demo-api
+### Demo app created for SwiftMedical, using their API https://github.com/swiftmedical/wounds-demo-api
 
 ### `npm start`
 
