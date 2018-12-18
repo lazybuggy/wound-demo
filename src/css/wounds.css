@@ -6,7 +6,7 @@
 }
 
 .woundItem{
-    background-color: rgba(241, 241, 241, 0.966);
+    background-color: #fcfcfc;
     border: 1px solid black;
     max-height: fit-content;
     min-height: fit-content;
